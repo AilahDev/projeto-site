@@ -139,9 +139,13 @@ a {
     cursor: pointer;
     border-radius: 50px
 }
+.credit-container {
+    text-align: center;
+    margin-top: 20px;
+}
 
 .buy-button:hover {
     background-color: #29ABE2;
     border: #29ABE2;
-    color: white; /* Cor de fundo ao passar o mouse */
+    color: white;
 }
