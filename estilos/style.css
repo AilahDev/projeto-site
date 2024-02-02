@@ -12,8 +12,8 @@ main {
     box-shadow: 3px 3px 5px #1C385F;
     color: #69412E;
     margin: auto;
-    padding: 20px;
-    width: 99%;
+    padding: 30px;
+    width: 95.5%;
 }
 
 .title-image-wrapper {
@@ -58,14 +58,17 @@ p {
     font-size: 16px;
 }
 
-p, h4, h5 {
+p {
     font-family: 'Muli', sans-serif;
     font-weight: normal;
     margin: 0;
 }
 
 h4 {
+    font-family: 'Muli', sans-serif;
     font-size: 20px;
+    font-weight: bold;
+    margin: 0;
 }
 
 h5 {
@@ -73,6 +76,7 @@ h5 {
     font-family: 'Baloo 2', cursive;
     font-size: 23px;
     font-weight: 900;
+    margin: 0;
 }
 
 h6 {
