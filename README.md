@@ -1,6 +1,3 @@
-**Projeto Site**
-
-**Descrição:**
 Este repositório contém o protótipo de um site para uma marca fictícia de café africano chamada "Bomani Café". O projeto tem como objetivo criar uma experiência visual e interativa que represente a autenticidade e qualidade dos cafés africanos oferecidos pela marca.
 
 **Recursos:**
